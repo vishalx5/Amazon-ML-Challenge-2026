@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Large datasets - DO NOT PUSH
+student_resource/dataset/
+student_resource/*.tsv
+student_resource/*.csv
+
+# Large SQLite indexes - DO NOT PUSH
+student_resource/*.db
+
+# Generated outputs
+output/*.tsv
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
