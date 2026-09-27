@@ -25,3 +25,8 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.log
+# Large generated preprocessing file
+member1preprocessing-20260926T143234Z-1-001/member1preprocessing/test_source1_clean.tsv
+
+# Challenge dataset files are too large for GitHub
+student_resource/dataset/
